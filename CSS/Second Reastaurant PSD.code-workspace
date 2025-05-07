@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Second Reastaurant PSD",
+			"path": ".."
+		},
+		{
+			"name": "fonts",
+			"path": "../../First Restaurant PSD/fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Second Reastaurant PSD"
+	}
+}
